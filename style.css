@@ -1,0 +1,83 @@
+header
+{
+
+    background-color:  rgb(148, 21, 21);
+    padding: 20px;
+    color: beige;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+table
+{
+    border-collapse:separate;
+    margin-top: 20px;
+}
+section
+{
+    background-image: url("og.jpg");
+    margin-top:20px;
+    margin-left: 160px;
+    height: 200px;
+    color: white;
+    padding: 20px;
+    margin-right: 100px;
+   
+}
+figure 
+{
+    text-align: center;
+    height: 100px;
+    width: 300px;
+}
+#image
+{
+    
+    
+    margin-left: 80px;
+    
+}
+#imageblock
+{
+    border:solid black; 
+    margin-left: 160px;
+    background-color:black;
+    margin-right: 100px;
+    
+}
+h1
+{
+    color:white;
+}
+nav
+{
+    float: left;
+}
+div
+{
+    color: white;
+    background-color: rgb(32, 32, 32);
+}
+aside
+{
+    margin-left: 160px;
+    margin-right: 100px;
+}
+aside td
+{
+    width: 1000px;
+    margin-right: 100px;
+}
+td
+{
+
+    border:solid black;
+    
+}
+
+a{color: white;}
+footer
+{
+    background-color: rgb(27, 27, 27);
+    height: 100px;
+    color: white;
+}
